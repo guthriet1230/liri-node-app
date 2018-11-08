@@ -9,7 +9,7 @@ Concert-this Example:
 
 
 Spotify-this-song Example:
-![](images/Liri_SptifyThis_Example.png)
+![](images/Liri_SpotifyThis_Example.png)
 
 
 
