@@ -26,7 +26,7 @@ Technology Used
 -----
 - Javascript
 - BandsinTown API
-- Spotify API
+- Spotify API (need to provide your own Spotify API key)
 - OMDB API
 
 
